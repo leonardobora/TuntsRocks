@@ -1,3 +1,5 @@
+LINK DA PLANILHA COPIADA: https://docs.google.com/spreadsheets/d/1lIS3X8l9Vum4a4I2c34-CVRscM_ONGuAtPkP00kRYb0/edit?usp=drive_link
+
 Olá recrutador! Meu nome é Leonardo Bora, tenho 21 anos e estudo Engenharia de Software pela Unibrasil. Estou no 5° período, e minha previsão de formatura é no final de 2026. 
 
 Este projeto foi desenvolvido em Python. Visando maior praticidade, optei por fazê-lo no Google Colab. O código está bem organizado, utilizando estruturas de dados simples e claras para representar as informações dos alunos.
